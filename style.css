@@ -1,0 +1,66 @@
+/**** Reset ****/
+
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/**** body, html ****/
+
+html,
+body {
+    width: 100%;
+    min-height: 100vh;
+}
+
+/**** div container ****/
+
+.container {
+    max-width: 350px;
+    width: 95%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.vector {
+    position: relative;
+    z-index: 2;
+    mix-blend-mode: color;
+}
+
+.shape {
+    fill: transparent;
+}
+
+.image {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+}
+
+.colors__btns {
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.color__btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 3px solid #fffffe;
+    box-shadow: 0 0 3px 5px rgba(0, 0, 0, 0.25);
+    background-color: var(--color);
+    cursor: pointer;
+}
