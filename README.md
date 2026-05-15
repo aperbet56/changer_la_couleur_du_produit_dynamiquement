@@ -1,5 +1,7 @@
 ## FONCTIONNALITE PERMETTANT DE CHANGER LA COULEUR DU PRODUIT DYNAMIQUEMENT
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création de la fonctionnalité permettant de changer le couleur d'un produit de manière dynamique en HTML5, CSS3 et JavaScript.
