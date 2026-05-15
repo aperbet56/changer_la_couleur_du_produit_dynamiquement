@@ -4,7 +4,7 @@
 
 ## Le challenge
 
-Création de la fonctionnalité permettant de changer le couleur d'un produit de manière dynamique en HTML5, CSS3 et JavaScript.
+Création de la fonctionnalité permettant de changer la couleur d'un produit de manière dynamique en HTML5, CSS3 et JavaScript.
 
 ## Démonstration
 
