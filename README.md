@@ -6,7 +6,7 @@ Création de la fonctionnalité permettant de changer le couleur d'un produit de
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/changer_la_couleur_du_produit_dynamiquement/
 
 ## Projet développé avec
 
